@@ -22,14 +22,14 @@ const Posts = () => {
                             key={post.id}
                             className="bg-white border w-100 border-gray-300 rounded-md p-4"
                         >
-                            <h3 className="text-lg font-semibold text-gray-700 mb-2">
+                            <h3 className="text-lg font-semibold text-purple-500 mb-2">
                                 {post.title}
                             </h3>
                             <p className="text-gray-600 text-sm">
                                 {post.body}
                             </p>
                             <div className="mt-3">
-                                <button className="px-3 py-1 text-sm text-white bg-blue-600 rounded hover:bg-blue-500">
+                                <button className="px-3 py-1 text-sm text-white bg-purple-600 rounded hover:bg-purple-500">
                                     Batafsil
                                 </button>
                             </div>

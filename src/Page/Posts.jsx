@@ -1,4 +1,5 @@
 import React from 'react'
+import Posts from './../Component/Posts.jsx';
 
 const Posts = () => {
     return (
