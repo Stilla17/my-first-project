@@ -11,6 +11,10 @@ const Posts = () => {
 
     return (
         <div className='ml-64'>
+<<<<<<< HEAD:src/Component/Posts.jsx
+=======
+
+>>>>>>> 1e0ca723073f967124d5871dc854834835987cc1:src/Components/Foiz/Posts/Posts.jsx
             <h1 className="text-2xl font-bold text-center text-gray-800 mb-8">
                 Posts ro‘yxati
             </h1>

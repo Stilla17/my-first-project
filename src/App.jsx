@@ -7,6 +7,8 @@ import Posts from './Component/Posts'
 
 function App() {
 
+
+const App = () => {
   return (
     <>
       <Routes>
@@ -22,6 +24,5 @@ function App() {
     </>
   )
 }
-
 
 export default App
