@@ -10,7 +10,7 @@ const Posts = () => {
     }, []);
 
     return (
-        <>
+        <div className='ml-64'>
 
             <h1 className="text-2xl font-bold text-center text-gray-800 mb-8">
                 Posts ro‘yxati
@@ -39,7 +39,7 @@ const Posts = () => {
                     </ul>
                 </div>
             </div>
-        </>
+        </div>
     );
 };
 
