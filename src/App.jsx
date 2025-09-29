@@ -5,9 +5,6 @@ import Product from './Page/Product'
 import Layout from './Page/Layout'
 import Posts from './Component/Posts'
 
-function App() {
-
-
 const App = () => {
   return (
     <>
